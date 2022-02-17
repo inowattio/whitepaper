@@ -8,7 +8,7 @@ Even with classic energy power plants like coal or nuclear power plants, the ene
 	Local microgrids will evolve to accommodate electrification and charging needs where storage stations of all sizes will become omnipresent even in residential areas. By decentralizing the grid and going towards dedicated micro units held by a community, they can control and protect themselves from centralized energy producers and most importantly from power blackouts. 
 Decentralized energy systems can be an additional measure to the existing centralized ones; they can provide safety, decarbonization, and lower energy prices thus a better quality of life.
 
-## Value proposition
+# Value proposition
 
 Merging blockchain technology with electrical storage stations can create a truly decentralized network that will enable prosumers to sell surplus energy to the increasing e-mobility sector with better profitability and transparency.
 
@@ -23,23 +23,24 @@ The Elrond blockchain has all built-in components needed for scaling a decentral
 
 The decentralized network targets homeowners who own installations for the production of electricity from renewable, storage units with an installed capacity of not more than 100 kW per consumption site (node). 
 
-## Virtual power plant units
+# Virtual power plant units
 Our decentralized system relies on distributed generation, storage, and demand response optimization.
 
-#### Distributed generation
+### Distributed generation
 Energy generation is the key part of decentralization. Deploying large-scale systems has proved not feasible with the current resource distribution because centralized plants are often located away from existing transmission lines, and constructing transport lines to power the end-user is not always feasible. 
 Distribution of generation units in the proximity of the consumer can improve costs and grid stability with smaller and more granular investments. Diversification of energy sources can be easier to install and store. With distributed PV roof surfaces there is higher flexibility in feeding the grid in multiple entry points, not depending on a monolithic grid with a single point of entry. 
 
-#### Distributed storage
+### Distributed storage
 Renewable sources' production times do not always match with the consumer peak times, and thus a buffer for both is required. In the old centralized plants, distributed storage was not such a strong requirement, mainly because if consumers were not draining energy then less fossil fuel was used to run the plant, having an on-off switch and not losing resources. 
 With renewables, this is no longer available, and production peeks cannot be easily predicted and they depend on weather and regional conditions. Storage in distributed plants provides this extra buffer  that can store extra energy and provide extra power peeks in case of need. 
 Scheduled storage units run discharging and charging on demand to optimize the grid performance, with respect to loss of energy and return of investments for generation units.
-#### Demand response optimization
+
+### Demand response optimization
 Demand response optimization becomes the central component of the virtual power plant, By running optimization algorithms on the real-time clusters of consumers and producers we can reach the perfect balance in the network. Asking for demand actions at specific times, the network members will be incentivized to share their infrastructure and service other neighboring units by mining INOWATT, the demand response network is a metaheuristic state-of-the-art optimizer like Particle Swarm,  Strawberry Optimization for multiobjective problems. That can be later improved and voted by the community. 
 
 https://ieeexplore.ieee.org/document/8370472
 
-## Market and regulators
+# Market and regulators
 European union
 The political guidelines of the European Commission 2019-2024 (von der Leyen 2019) emphasize the urgency of leading the transition to a healthy and new digital world, addressing the challenges of Europe being the first climate-neutral continent (Commission priority ‘A European Green Deal’ 3 ) and the transformations brought about by digital technologies (Commission priority ‘A Europe fit for the digital age 4 ). “Reducing greenhouse gas emissions by at least 55% by 2030 requires higher shares of renewable energy and greater energy efficiency in an integrated energy system”. 
 	Each country has been allocated funds in PNRR  for research and deployments of new enhanced smart grids and smart cities. INOWATT project is not targeting a disruptive market but an emerging and transformation period in the European Union's interests and politics. It follows shared trends in political and environmental policies with all EU countries and strives to hit the targets for general decarbonization. Each country has been allocated funds in PNRR  for research and deployments of new enhanced smart grids and smart cities.
@@ -80,10 +81,10 @@ For a normal household, the average consumption of energy is around
 In the first half of 2021, average household electricity prices in the EU increased slightly compared with the same period of 2020 (€21.3 per 100 kWh), standing at €21.9 per 100 kWh. At 0.22 euro cents for KW.  meaning your battery can provide you 1.1 $ per discharge. The battery price is around 4000$ means it will buy out in 3636.36. Doing the math ignores the lifetime and the discharge percentage, if you would cycle it to 100% your lifetime dramatically reduces - for 5KW discharging 100% - a number of 600 discharge cycles can be made. If you would discharge just 50% 3,000 discharge cycles can be made. There is another aspect in the voltage of the cells inside batteries, and if tunned properly it can prolong the life of the battery dramatically.
 
 
-### Battery minning 
+## Battery minning 
 
-### PV optimization
+## PV optimization
 
-## System Architecture
+# System Architecture
 
 
