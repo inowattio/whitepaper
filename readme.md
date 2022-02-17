@@ -57,30 +57,33 @@ Decentralized Energy Systems (Brussels, European Parliament's Committee on Indus
 
 
 Smart Grids and Beyond: An EU research and innovation perspective 202.
-The project will is also certifing to obtain the ANRI license for agregation services.
-https://www.anre.ro/ro/energie-electrica/legislatie/documente-de-discutie-ee/licente/proiect-de-ordin-privind-conditiile-generale-asociate-licentei-pentru-activitatea-de-agregare&page=1
 
 ## Incentivization
-Joining the INOWAT community will provide you with a lower installation tax for storage and generation equipment. It will be a platform for co-ownership and distributed investments.
- If every holder would invest in his own infrastructure without servicing other members and the grid operations, their return of investment is overshooting 10 years, with INOWAT, it can be achieved in half the period ~5 years. 
+You invest in a certified ANRI service providerlicensed for agregation services.
+https://www.anre.ro/ro/energie-electrica/legislatie/documente-de-discutie-ee/licente/proiect-de-ordin-privind-conditiile-generale-asociate-licentei-pentru-activitatea-de-agregare&page=1
+
+Our community will provide you with a lower installation tax for storage and generation equipment. It will be a platform for co-ownership and distributed investments.If every holder would invest in his own infrastructure without servicing other members and the grid operations, their return of investment is o vershooting 10 years, with INOWAT, it can be achieved in half the period ~5 years. 
 The community is settling on transparent pricing. Providers can achieve an optimal production price, green energy stored for later use and consumers lower their usage of fossil energy sources.
 5 KW deployed units, can store 5KWh of energy that later can be sold or used.
 
- Buying at peak generation time for 0.07KW/h  and then selling at 0.15KW/h at peak consumption time gives a profit of 0,4 Euros/hour, with an average peek generation period of 5 hours per day, which means. This is only PV.
+Buying at peak generation time for 0.07KW/h  and then selling at 0.15KW/h at peak consumption time gives a profit of 0,4 Euros/hour, with an average peek generation period of 5 hours per day, which means. This is only PV.
 2 Euros/day
 62Euros/Month,
 744 Euros/Year
 If also Wind and Hydro are collected, then multiple charge/discharges cycles per day are required. Making it possible to double your profits.
-If there is a possibility for storage users to sell, consumers will be incentivized with lower prices, if you will discharge a store and provide more cycles at demand periods, your bill can be lower as well.
-Let's imagine we have a lower price of 0.02EUR/KWh and a higher price paid by the end-user at 0.2 EUR/KWh,  By using a storage unit that buys and sells at 0.11EUR/KWh, there is an incentive for all 3 parties to join the community and play their part in the grid orchestration. An extra 0.11EUR/KW economy is felt by each actor involved.
-For a normal household, the average consumption of energy is around 
+If there is a possibility for storage users to sell, consumers will be incentivized with lower prices
+
+Let's imagine we have a lower price of 0.02EUR/KWh and a higher price paid by the end-user at 0.2 EUR/KWh. Using a storage unit that buys and sells at 0.11EUR/KWh, there is an incentive for all 3 parties to join the community and play their part in the grid orchestration. An extra 0.11EUR/KW economy is felt by each actor involved.
+For a normal household, the average consumption of energy is around  
 
 
 In the first half of 2021, average household electricity prices in the EU increased slightly compared with the same period of 2020 (€21.3 per 100 kWh), standing at €21.9 per 100 kWh. At 0.22 euro cents for KW.  meaning your battery can provide you 1.1 $ per discharge. The battery price is around 4000$ means it will buy out in 3636.36. Doing the math ignores the lifetime and the discharge percentage, if you would cycle it to 100% your lifetime dramatically reduces - for 5KW discharging 100% - a number of 600 discharge cycles can be made. If you would discharge just 50% 3,000 discharge cycles can be made. There is another aspect in the voltage of the cells inside batteries, and if tunned properly it can prolong the life of the battery dramatically.
 
 
 ### Battery minning 
+
 ### PV optimization
-#System Architecture
+
+##System Architecture
 
 
