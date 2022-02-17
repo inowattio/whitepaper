@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 
 In this paper, we propose InnoWATT; a solution running on the Elrond blockchain that enables prosumers in residential areas to sell surplus energy to customers or store it for future trading.
 
@@ -8,7 +8,7 @@ Even with classic energy power plants like coal or nuclear power plants, the ene
 	Local microgrids will evolve to accommodate electrification and charging needs where storage stations of all sizes will become omnipresent even in residential areas. By decentralizing the grid and going towards dedicated micro units held by a community, they can control and protect themselves from centralized energy producers and most importantly from power blackouts. 
 Decentralized energy systems can be an additional measure to the existing centralized ones; they can provide safety, decarbonization, and lower energy prices thus a better quality of life.
 
-##Value proposition
+## Value proposition
 
 Merging blockchain technology with electrical storage stations can create a truly decentralized network that will enable prosumers to sell surplus energy to the increasing e-mobility sector with better profitability and transparency.
 
@@ -23,10 +23,10 @@ The Elrond blockchain has all built-in components needed for scaling a decentral
 
 The decentralized network targets homeowners who own installations for the production of electricity from renewable, storage units with an installed capacity of not more than 100 kW per consumption site (node). 
 
-##Virtual power plant units
+## Virtual power plant units
 Our decentralized system relies on distributed generation, storage, and demand response optimization.
 
-####Distributed generation
+#### Distributed generation
 Energy generation is the key part of decentralization. Deploying large-scale systems has proved not feasible with the current resource distribution because centralized plants are often located away from existing transmission lines, and constructing transport lines to power the end-user is not always feasible. 
 Distribution of generation units in the proximity of the consumer can improve costs and grid stability with smaller and more granular investments. Diversification of energy sources can be easier to install and store. With distributed PV roof surfaces there is higher flexibility in feeding the grid in multiple entry points, not depending on a monolithic grid with a single point of entry. 
 
