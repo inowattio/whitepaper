@@ -84,6 +84,6 @@ In the first half of 2021, average household electricity prices in the EU increa
 
 ### PV optimization
 
-##System Architecture
+## System Architecture
 
 
