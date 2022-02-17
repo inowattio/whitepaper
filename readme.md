@@ -34,12 +34,12 @@ Distribution of generation units in the proximity of the consumer can improve co
 Renewable sources' production times do not always match with the consumer peak times, and thus a buffer for both is required. In the old centralized plants, distributed storage was not such a strong requirement, mainly because if consumers were not draining energy then less fossil fuel was used to run the plant, having an on-off switch and not losing resources. 
 With renewables, this is no longer available, and production peeks cannot be easily predicted and they depend on weather and regional conditions. Storage in distributed plants provides this extra buffer  that can store extra energy and provide extra power peeks in case of need. 
 Scheduled storage units run discharging and charging on demand to optimize the grid performance, with respect to loss of energy and return of investments for generation units.
-### Demand response optimization
+#### Demand response optimization
 Demand response optimization becomes the central component of the virtual power plant, By running optimization algorithms on the real-time clusters of consumers and producers we can reach the perfect balance in the network. Asking for demand actions at specific times, the network members will be incentivized to share their infrastructure and service other neighboring units by mining INOWATT, the demand response network is a metaheuristic state-of-the-art optimizer like Particle Swarm,  Strawberry Optimization for multiobjective problems. That can be later improved and voted by the community. 
 
 https://ieeexplore.ieee.org/document/8370472
 
-#Market and regulators
+## Market and regulators
 European union
 The political guidelines of the European Commission 2019-2024 (von der Leyen 2019) emphasize the urgency of leading the transition to a healthy and new digital world, addressing the challenges of Europe being the first climate-neutral continent (Commission priority ‘A European Green Deal’ 3 ) and the transformations brought about by digital technologies (Commission priority ‘A Europe fit for the digital age 4 ). “Reducing greenhouse gas emissions by at least 55% by 2030 requires higher shares of renewable energy and greater energy efficiency in an integrated energy system”. 
 	Each country has been allocated funds in PNRR  for research and deployments of new enhanced smart grids and smart cities. INOWATT project is not targeting a disruptive market but an emerging and transformation period in the European Union's interests and politics. It follows shared trends in political and environmental policies with all EU countries and strives to hit the targets for general decarbonization. Each country has been allocated funds in PNRR  for research and deployments of new enhanced smart grids and smart cities.
@@ -57,8 +57,10 @@ Decentralized Energy Systems (Brussels, European Parliament's Committee on Indus
 
 
 Smart Grids and Beyond: An EU research and innovation perspective 202.
+The project will is also certifing to obtain the ANRI license for agregation services.
+https://www.anre.ro/ro/energie-electrica/legislatie/documente-de-discutie-ee/licente/proiect-de-ordin-privind-conditiile-generale-asociate-licentei-pentru-activitatea-de-agregare&page=1
 
-#Incentivization
+## Incentivization
 Joining the INOWAT community will provide you with a lower installation tax for storage and generation equipment. It will be a platform for co-ownership and distributed investments.
  If every holder would invest in his own infrastructure without servicing other members and the grid operations, their return of investment is overshooting 10 years, with INOWAT, it can be achieved in half the period ~5 years. 
 The community is settling on transparent pricing. Providers can achieve an optimal production price, green energy stored for later use and consumers lower their usage of fossil energy sources.
@@ -77,8 +79,8 @@ For a normal household, the average consumption of energy is around
 In the first half of 2021, average household electricity prices in the EU increased slightly compared with the same period of 2020 (€21.3 per 100 kWh), standing at €21.9 per 100 kWh. At 0.22 euro cents for KW.  meaning your battery can provide you 1.1 $ per discharge. The battery price is around 4000$ means it will buy out in 3636.36. Doing the math ignores the lifetime and the discharge percentage, if you would cycle it to 100% your lifetime dramatically reduces - for 5KW discharging 100% - a number of 600 discharge cycles can be made. If you would discharge just 50% 3,000 discharge cycles can be made. There is another aspect in the voltage of the cells inside batteries, and if tunned properly it can prolong the life of the battery dramatically.
 
 
-#Battery minning 
-#PV optimization
+### Battery minning 
+### PV optimization
 #System Architecture
 
 
