@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 In this paper, we propose InnoWATT; a solution running on the Elrond blockchain that enables prosumers in residential areas to sell surplus energy to customers or store it for future trading.
 
