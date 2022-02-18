@@ -1,6 +1,6 @@
 # Introduction
 
-In this paper, we propose InnoWATT; a solution running on the Elrond blockchain that enables prosumers in residential areas to sell surplus energy to customers or store it for future trading.
+InnoWATT; a solution running on the Elrond blockchain that enables prosumers in residential areas to sell surplus energy to customers or store it for future trading.
 
 INNOWATT is a virtual power plant where resources are delegated and deployed in co-ownership with members of the network. It will have a NFT based ownership contract, notarized smart meters readings, and job slots that you can mine with your device. It will be the OS of the distributed grid.
 
