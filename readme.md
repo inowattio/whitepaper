@@ -53,7 +53,7 @@ https://ieeexplore.ieee.org/document/8370472
 - Marketing tokens comprise  of total supply.			0.085	€4,250,000.00
 - Community tokens comprise of total supply.			0.02	€1,000,000.00
 
-Vesting 
+### Vesting 
 - Ecosystem Rewards: 7.00% — 50% at IEO and 50% 6 months after IEO.
 - Marketing/Grants/Accelerator Pool: 8.50% — • 81,17% at the IEO, 9,41% every 6 months after IEO.
 - Team: 19.00% — Locked until 2020 with 3.5 years vesting period: 10% — 6 months after IEO, 10% — 12 months after IEO, another 15% — 18, 24, 30 and 36 months after IEO, 20% — 42 months after IEO. To show our commitment, the team has agreed to postpone unlocking team tokens until 6 months after IEO, and has extended the vesting to 3.5 years.
