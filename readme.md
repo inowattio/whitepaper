@@ -61,7 +61,11 @@ https://ieeexplore.ieee.org/document/8370472
 
 			
  Minning tokens if you have the sistem running.
+ pornim de la 7000000 care este poolul de ecosistem, impartim poolul la 365 zile pentru ca am inceput calculul de la puterea cere vrem sa o obtinem in primele 365 zile(100mwats). rezulta 7000000/365=19178.0822 pe zi reward. care se imparte la numarulk de unitati instalate. 100mwat = 20000 unitati. => la o retea initiala copmpleta ar fi rezultatul pe unitate pe zi 19178/20000=0.95890411 daowat/ unitate per zi. la un public price de 0.5$ => 0.95890411*0.5$=0.47945205$
  
+ la fiecare unitate in plus fata de cele 20000 se minteaza daowat de capacitatea unitatii care intra in retea.
+ 
+ !!!!pasul urmator este sa gasim relevanta tokenului la maturitatea retelei cand nu mai e inflatie.!!!!
 
 # Market and regulators
 European union
