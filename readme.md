@@ -39,18 +39,18 @@ https://ieeexplore.ieee.org/document/8370472
 
 # Tokenomics|
 
-Initial Supply	100.000.000 daoWat
-Price per token	0.5 EURO Public sale/ 0.25 private sales 
-Market CAP	50.000.000  EURO
+## Initial Supply	100.000.000 daoWat
+## Price per token	0.5 EURO Public sale/ 0.25 private sales 
+## Market CAP	50.000.000  EURO
 
-Private sale tokens comprise of total supply.		0.19	€9,500,000.00
-Launchpad sale tokens comprise  of total supply.		0.25	€12,500,000.00
-Team tokens comprise of total supply.		0.19	€9,500,000.00
-Reserve tokens comprise  of total supply.		0.17	€8,500,000.00
-Advisors received  of total supply.		0.025	€1,250,000.00
-Ecosystem Rewards tokens comprise of total supply.		0.07	€3,500,000.00
-Marketing tokens comprise  of total supply.		0.085	€4,250,000.00
-Community tokens comprise of total supply.		0.02	€1,000,000.00
+### Private sale tokens comprise of total supply.		0.19	€9,500,000.00
+### Launchpad sale tokens comprise  of total supply.		0.25	€12,500,000.00
+### Team tokens comprise of total supply.		0.19	€9,500,000.00
+### Reserve tokens comprise  of total supply.		0.17	€8,500,000.00
+### Advisors received  of total supply.		0.025	€1,250,000.00
+### Ecosystem Rewards tokens comprise of total supply.		0.07	€3,500,000.00
+### Marketing tokens comprise  of total supply.		0.085	€4,250,000.00
+### Community tokens comprise of total supply.		0.02	€1,000,000.00
 
 	
  Minning tokens if you have the sistem running.
