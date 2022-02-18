@@ -39,24 +39,25 @@ https://ieeexplore.ieee.org/document/8370472
 
 # Tokenomics|
 
-## Initial Supply	100.000.000 daoWat
-## Price per token	0.5 EURO Public sale/ 0.25 private sales 
-## Market CAP	50.000.000  EURO
+#### Initial Supply	100.000.000 daoWat
+#### Price per token	0.5 EURO Public sale/ 0.25 private sales 
+#### Market CAP	50.000.000  EURO
 
-Private sale tokens comprise of total supply.			0.19	€9,500,000.00  - vesting private sale (3 years)
-Launchpad sale tokens comprise  of total supply.		0.25	€12,500,000.00
-Team tokens comprise of total supply.				0.19	€9,500,000.00  - 
-Reserve tokens comprise  of total supply.			0.17	€8,500,000.00
-Advisors received  of total supply.				0.025	€1,250,000.00
-Ecosystem Rewards tokens comprise of total supply.		0.07	€3,500,000.00
-Marketing tokens comprise  of total supply.			0.085	€4,250,000.00
-Community tokens comprise of total supply.			0.02	€1,000,000.00
+### Distribution
+- Private sale tokens comprise of total supply.			0.19	€9,500,000.00  - vesting private sale (3 years)
+- Launchpad sale tokens comprise  of total supply.		0.25	€12,500,000.00
+- Team tokens comprise of total supply.				0.19	€9,500,000.00  - 
+- Reserve tokens comprise  of total supply.			0.17	€8,500,000.00
+- Advisors received  of total supply.				0.025	€1,250,000.00
+- Ecosystem Rewards tokens comprise of total supply.		0.07	€3,500,000.00
+- Marketing tokens comprise  of total supply.			0.085	€4,250,000.00
+- Community tokens comprise of total supply.			0.02	€1,000,000.00
 
 Vesting 
-Ecosystem Rewards: 7.00% — 50% at IEO and 50% 6 months after IEO.
-Marketing/Grants/Accelerator Pool: 8.50% — • 81,17% at the IEO, 9,41% every 6 months after IEO.
-Team: 19.00% — Locked until 2020 with 3.5 years vesting period: 10% — 6 months after IEO, 10% — 12 months after IEO, another 15% — 18, 24, 30 and 36 months after IEO, 20% — 42 months after IEO. To show our commitment, the team has agreed to postpone unlocking team tokens until 6 months after IEO, and has extended the vesting to 3.5 years.
-Private Round: 19.00%— 7.5% unlocked at IEO, remaining 92.5% unlocks 15.42% every quarter over 18 months. Early supporters and private investors are a very important part of Elrond ecosystem and should be here for the long-term, so aligning interests between private investors and team are instrumental for long-term value creation. Therefor an increase in vesting was also added to the private investors.
+- Ecosystem Rewards: 7.00% — 50% at IEO and 50% 6 months after IEO.
+- Marketing/Grants/Accelerator Pool: 8.50% — • 81,17% at the IEO, 9,41% every 6 months after IEO.
+- Team: 19.00% — Locked until 2020 with 3.5 years vesting period: 10% — 6 months after IEO, 10% — 12 months after IEO, another 15% — 18, 24, 30 and 36 months after IEO, 20% — 42 months after IEO. To show our commitment, the team has agreed to postpone unlocking team tokens until 6 months after IEO, and has extended the vesting to 3.5 years.
+- Private Round: 19.00%— 7.5% unlocked at IEO, remaining 92.5% unlocks 15.42% every quarter over 18 months. Early supporters and private investors are a very important part of Elrond ecosystem and should be here for the long-term, so aligning interests between private investors and team are instrumental for long-term value creation. Therefor an increase in vesting was also added to the private investors.
 
 			
  Minning tokens if you have the sistem running.
