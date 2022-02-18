@@ -37,6 +37,25 @@ Demand response optimization becomes the central component of the virtual power 
 
 https://ieeexplore.ieee.org/document/8370472
 
+# Tokenomics|
+
+Initial Supply	100.000.000 daoWat
+Price per token	0.5 EURO Public sale/ 0.25 private sales 
+Market CAP	50.000.000  EURO
+
+Private sale tokens comprise of total supply.		0.19	€9,500,000.00
+Launchpad sale tokens comprise  of total supply.		0.25	€12,500,000.00
+Team tokens comprise of total supply.		0.19	€9,500,000.00
+Reserve tokens comprise  of total supply.		0.17	€8,500,000.00
+Advisors received  of total supply.		0.025	€1,250,000.00
+Ecosystem Rewards tokens comprise of total supply.		0.07	€3,500,000.00
+Marketing tokens comprise  of total supply.		0.085	€4,250,000.00
+Community tokens comprise of total supply.		0.02	€1,000,000.00
+
+	
+ Minning tokens if you have the sistem running.
+ 
+
 # Market and regulators
 European union
 The political guidelines of the European Commission 2019-2024 (von der Leyen 2019) emphasize the urgency of leading the transition to a healthy and new digital world, addressing the challenges of Europe being the first climate-neutral continent (Commission priority ‘A European Green Deal’ 3 ) and the transformations brought about by digital technologies (Commission priority ‘A Europe fit for the digital age 4 ). “Reducing greenhouse gas emissions by at least 55% by 2030 requires higher shares of renewable energy and greater energy efficiency in an integrated energy system”. 
